@@ -1,4 +1,4 @@
-# Focusr-Public
+# Focusr-Public | Congressional App Challenge winner
 
 **Focusr** is a mobile application designed to assess and improve attention span using neuroscience-backed tasks and machine learning. It provides personalized diagnostics, real-time attention tracking, and actionable insights, making it a powerful tool for students, educators, and individuals seeking to enhance cognitive focus.
 ** unforunately not disclosing code for project privacy
